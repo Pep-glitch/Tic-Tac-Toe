@@ -17,7 +17,7 @@ public class Display extends Frame
         setBounds(0,0,800,590);
         line_bar = new MenuBar();
         start_menu = new Menu("START");
-        player_item = new MenuItem("PLAYERS");
+        player_item = new MenuItem("PLAYER");
         game_item = new MenuItem("PLAY");
 
 
